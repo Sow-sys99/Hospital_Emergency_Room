@@ -1,2 +1,6 @@
-# Hospital_Emergency_Room
-A Power BI project visualizing hospital emergency room data, including number of patients, Average wait time, patient satisfaction score and number of patients referred.                                                              
+Hospital Emergency Room Dashboard 
+
+This Power BI project provides detailed insights into hospital emergency room operations through four interactive dashboards.
+
+ Dashboards
+                                                              
